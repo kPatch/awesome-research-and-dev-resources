@@ -24,10 +24,19 @@
 ## Prequisites
 
 ---
+## Software Engineering
+
+### Books
+- [The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt & David Thomas](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+- [Clean Code: A Handbook of Agile Software Craftmanship by Robert C. Martin](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+---
 
 ## Languages 
 
 ### Java
+#### Books
+### JavaScript
+#### Books
 
 ## Android
 
