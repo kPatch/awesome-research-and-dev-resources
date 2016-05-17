@@ -29,17 +29,25 @@
 
 ### Java
 
-### Android
+## Android
 
-#### Courses
-- [Developing Android Apps - Android Fundamentals](https://www.udacity.com/course/developing-android-apps--ud853)
+### Courses
+- [Udacity: Developing Android Apps - Android Fundamentals](https://www.udacity.com/course/developing-android-apps--ud853)
 
 ### Tutorials
 - [Android Hive](http://www.androidhive.info/)
 
+### Libraries
 
-### iOS
+### Frameworks
+
+## iOS
 
 ## Web Development
 
 ## UI/UX
+
+### Courses
+- [Udacity: UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
+
+
