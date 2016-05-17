@@ -1,7 +1,7 @@
 <h3 align="center"> Awesome Developer Resources </h3>
 <p align="center"> A list of links, books, and talks related to development </p>
 
-<p> Have fun.. ༼ つ ◕_◕ ༽つ </p>
+<p align="center">May the fork be with you ༼ つ ◕_◕ ༽つ </p>
 
 ## Contents
 
