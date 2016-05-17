@@ -31,6 +31,12 @@
 
 ### Android
 
+#### Courses
+- [Developing Android Apps - Android Fundamentals](https://www.udacity.com/course/developing-android-apps--ud853)
+
+### Tutorials
+- [Android Hive](http://www.androidhive.info/)
+
 
 ### iOS
 
