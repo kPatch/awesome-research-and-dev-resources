@@ -16,6 +16,8 @@
 - [iOS](#ios)
 - [Web Development](#web-development)
 - [UI/IX](#ui-ux)
+- [Security](#security)
+    - [OAuth](#oauth)
 
 ## About
 
@@ -30,6 +32,8 @@
 ### Books
 - [The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt & David Thomas](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 - [Clean Code: A Handbook of Agile Software Craftmanship by Robert C. Martin](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+
+### Idols
 
 ---
 
@@ -61,4 +65,7 @@
 ### Courses
 - [Udacity: UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
 
+## Security
 
+### OAuth
+- [OAuth 2.0 Tutorial by Jakob Jenkov](http://tutorials.jenkov.com/oauth2/index.html)
