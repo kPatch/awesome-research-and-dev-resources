@@ -8,6 +8,8 @@
 - [About](#about)
 - [How to use this guide](#how-to-use-this-guide)
 - [Prerequisites](#prerequisites)
+- [Software Engineering] (#software-engineering)
+- [Product](#product)
 - [Languages](#languages)
     - [Java](#java)
     - [JavaScript](#javascript)
@@ -32,10 +34,17 @@
 ### Books
 - [The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt & David Thomas](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 - [Clean Code: A Handbook of Agile Software Craftmanship by Robert C. Martin](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Gang of Four - Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8)
 
 ### Idols
 
 ---
+
+## Product
+
+### User Onboarding
+- [UserOnboard](http://www.useronboard.com/)
+- []()
 
 ## Languages 
 
