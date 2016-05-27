@@ -39,6 +39,9 @@
 
 * Gang of Four's book might be too heavy for beginners, I recommend getting started with Head First Design Patterns
 
+### Links
+- [A successful Git branching Model by Vincent Driesse](http://nvie.com/posts/a-successful-git-branching-model/)
+
 ### Idols
 
 ---
