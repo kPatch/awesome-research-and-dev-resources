@@ -20,6 +20,7 @@
 - [UI/IX](#ui-ux)
 - [Security](#security)
     - [OAuth](#oauth)
+- [AI](#ai)
 
 ## About
 
@@ -85,3 +86,6 @@
 
 ### OAuth
 - [OAuth 2.0 Tutorial by Jakob Jenkov](http://tutorials.jenkov.com/oauth2/index.html)
+
+## AI
+- [Deep Learning Summer School](http://videolectures.net/deeplearning2016_montreal/)
