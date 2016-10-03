@@ -100,3 +100,14 @@
 
 ## AI
 - [Deep Learning Summer School](http://videolectures.net/deeplearning2016_montreal/)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- [Deep Learning site](http://deeplearning.net/)
+
+### Books
+- [Artificial Intellgence: A Moder Approach 3rd Edition by Stuart Russel and Peter Norveig](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
+- [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
+- [Speech and Language Processing 3rd Edition Draft by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
+    - [Speech and Language Processing 2nd Edition Draft by Dan Jurafsky and James H. Martin](https://www.amazon.com/Speech-Language-Processing-Daniel-Jurafsky/dp/0131873210)
+
+### Courses
+- [Coursera: Artificial Intelligence by Dan Klein and Peter Abbeel - UC Berkeley](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x)
