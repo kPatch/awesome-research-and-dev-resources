@@ -137,7 +137,7 @@
 - [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
 ### Blogs
-- [Lorem Ipsum](#)
+- [Andrej Karpathy](http://karpathy.github.io/)
 
 ### Tools and Frameworks
 - [Tensorflow](https://www.tensorflow.org/)
