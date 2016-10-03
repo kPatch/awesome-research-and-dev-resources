@@ -96,7 +96,16 @@
 - [OAuth 2.0 Tutorial by Jakob Jenkov](http://tutorials.jenkov.com/oauth2/index.html)
 
 ## Blockchain
--
+- [Bitcoin's Whitepaper](https://bitcoin.org/bitcoin.pdf)
+- [Bitcoin's Developer Documentation](https://bitcoin.org/en/developer-documentation)
+- [Bitcoin's GitHub Organization](https://github.com/bitcoin)
+- [Bitcoin's Wiki](https://en.bitcoin.it/wiki/Main_Page)
+- [Bitcoin's IRC Channels](https://en.bitcoin.it/wiki/IRC_channels)
+- [Bitcoin: Choose Your Wallet](https://bitcoin.org/en/choose-your-wallet)
+
+- [MultiChain - Blockchain Parameters](http://www.multichain.com/developers/blockchain-parameters/)
+
+### News Articles
 
 ## AI
 - [Deep Learning Summer School](http://videolectures.net/deeplearning2016_montreal/)
