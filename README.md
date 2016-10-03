@@ -57,19 +57,26 @@
 ---
 
 ## Product
+- [Lorem Ipsum](#)
 
 ### User Onboarding
 - [UserOnboard](http://www.useronboard.com/)
 - []()
 
 ## Languages 
+- [Lorem Ipsum](#)
 
 ### Java
+- [Lorem Ipsum](#)
 #### Books
+- [Lorem Ipsum](#)
 ### JavaScript
+- [Lorem Ipsum](#)
 #### Books
+- [Lorem Ipsum](#)
 
 ## Android
+- [Lorem Ipsum](#)
 
 ### Courses
 - [Udacity: Developing Android Apps - Android Fundamentals](https://www.udacity.com/course/developing-android-apps--ud853)
@@ -78,12 +85,16 @@
 - [Android Hive](http://www.androidhive.info/)
 
 ### Libraries
+- [Lorem Ipsum](#)
 
 ### Frameworks
+- [Lorem Ipsum](#)
 
 ## iOS
+- [Lorem Ipsum](#)
 
 ## Web Development
+- [Lorem Ipsum](#)
 
 ## UI/UX
 
@@ -91,6 +102,7 @@
 - [Udacity: UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
 
 ## Security
+- [Lorem Ipsum](#)
 
 ### OAuth
 - [OAuth 2.0 Tutorial by Jakob Jenkov](http://tutorials.jenkov.com/oauth2/index.html)
@@ -123,6 +135,9 @@
 ### Courses
 - [EdX: Artificial Intelligence by Dan Klein and Peter Abbeel - UC Berkeley](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x)
 - [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+
+### Blogs
+- [Lorem Ipsum](#)
 
 ### Tools and Frameworks
 - [Tensorflow](https://www.tensorflow.org/)
