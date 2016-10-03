@@ -143,6 +143,7 @@
 - [Tensorflow](https://www.tensorflow.org/)
 - [Theano](http://deeplearning.net/software/theano/)
 - [Caffe](http://caffe.berkeleyvision.org/)
+- [Torch](http://torch.ch/)
 - [scikit-learn](http://scikit-learn.org/0.16/)
 - [Deeplearning4j](http://deeplearning4j.org/index.html)
 
