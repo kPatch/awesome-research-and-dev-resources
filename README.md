@@ -124,6 +124,13 @@
 - [EdX: Artificial Intelligence by Dan Klein and Peter Abbeel - UC Berkeley](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x)
 - [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
+### Tools and Frameworks
+- [Tensorflow](https://www.tensorflow.org/)
+- [Theano](http://deeplearning.net/software/theano/)
+- [Caffe](http://caffe.berkeleyvision.org/)
+- [scikit-learn](http://scikit-learn.org/0.16/)
+- [Deeplearning4j](http://deeplearning4j.org/index.html)
+
 ### Notable News Articles
 - [(2015) - arsTechnica: Debunking the biggest myths about artificial intelligence](http://arstechnica.com/information-technology/2015/12/demystifying-artificial-intelligence-no-the-singularity-is-not-just-around-the-corner/)
 - [(2015) - Business Insider: The 3 biggest misconceptions about artificial intelligence, according to Facebook's expert - Yann LeCun](http://www.businessinsider.com/biggest-misconceptions-about-artificial-intelligence-facebook-2015-9)
