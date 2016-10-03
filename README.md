@@ -110,4 +110,5 @@
     - [Speech and Language Processing 2nd Edition Draft by Dan Jurafsky and James H. Martin](https://www.amazon.com/Speech-Language-Processing-Daniel-Jurafsky/dp/0131873210)
 
 ### Courses
-- [Coursera: Artificial Intelligence by Dan Klein and Peter Abbeel - UC Berkeley](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x)
+- [EdX: Artificial Intelligence by Dan Klein and Peter Abbeel - UC Berkeley](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x)
+- [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
