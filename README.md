@@ -22,6 +22,8 @@
     - [OAuth](#oauth)
 - [Blockchain](#blockchain)
 - [AI](#ai)
+- [Startup](#startup)
+    - [Venture Capital](#venture-capital)
 
 ## About
 
@@ -164,3 +166,8 @@
 - [(2015) - Bloomberg: Why 2015 Was a Breakthrough Year in Artificial Intelligence](http://www.bloomberg.com/news/articles/2015-12-08/why-2015-was-a-breakthrough-year-in-artificial-intelligence)
 - [(2015) - Bloomberg:  Computers Learn How to Paint Whatever You Tell Them To](http://www.bloomberg.com/news/articles/2015-12-02/computers-learn-how-to-paint-whatever-you-tell-them-to)
 - [(2015) - Jason Kottke: Taking a neural net out for a walk](http://kottke.org/15/11/taking-a-neural-net-out-for-a-walk)
+
+# Startup
+Lorem Ipsum
+
+## Venture Capital
