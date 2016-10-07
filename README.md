@@ -167,7 +167,7 @@
 - [(2015) - Bloomberg:  Computers Learn How to Paint Whatever You Tell Them To](http://www.bloomberg.com/news/articles/2015-12-02/computers-learn-how-to-paint-whatever-you-tell-them-to)
 - [(2015) - Jason Kottke: Taking a neural net out for a walk](http://kottke.org/15/11/taking-a-neural-net-out-for-a-walk)
 
-# Startup
+## Startup
 Lorem Ipsum
 
-## Venture Capital
+### Venture Capital
