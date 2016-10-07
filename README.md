@@ -115,8 +115,17 @@
 - [Bitcoin's Wiki](https://en.bitcoin.it/wiki/Main_Page)
 - [Bitcoin's IRC Channels](https://en.bitcoin.it/wiki/IRC_channels)
 - [Bitcoin: Choose Your Wallet](https://bitcoin.org/en/choose-your-wallet)
-
 - [MultiChain - Blockchain Parameters](http://www.multichain.com/developers/blockchain-parameters/)
+
+### Smart Contracts
+- [Lorem Ipsum](#)
+#### Ethereum
+- [(2016) YouTube: Introduction to Ethereum Smart Contract Development with Solidity (Part 1)] (https://www.youtube.com/watch?v=8jI1TuEaTro)
+- [(2016) YouTube: Introduction to Ethereum Smart Contract Development with Solidity (Part 2)](https://www.youtube.com/watch?v=3-XPBtAfcqo)
+
+##### Tools
+- [Truffle - A Development Framework for Ethereum](https://github.com/ConsenSys/truffle)
+- [testrpc - A Node.js based Ethereum client for testing and development](https://github.com/ethereumjs/testrpc)
 
 ### Notable News Articles
 - [(2015) - The Economist: The Trust Machine](http://www.economist.com/news/leaders/21677198-technology-behind-bitcoin-could-transform-how-economy-works-trust-machine)
