@@ -176,6 +176,9 @@
 - [ROS: Lidar - Velodyna](https://staff.fnwi.uva.nl/a.visser/activities/FutureOfRescue/RoboCupRescueTutorial.pdf)
 - [ROS DRCSIM](http://gazebosim.org/tutorials?cat=drcsim)
 
+### Troubleshooting
+- [From Jade back to Indigo - You Might Encounter Some Issues](http://answers.ros.org/question/211291/ros-indigo-re-installation-problem/)
+
 ## Startup
 Lorem Ipsum
 
