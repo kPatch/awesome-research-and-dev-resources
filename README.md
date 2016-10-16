@@ -180,6 +180,14 @@
     - [Velodyne HDL-32E IP Address](https://support.polysync.io/hc/en-us/articles/218551677-Velodyne-HDL-32E)
 - [ROS DRCSIM](http://gazebosim.org/tutorials?cat=drcsim)
 
+### Velodyne Trick Tips
+> Use Wireshark to get source IP Address
+> If sudo ifconfig eth0 192.168.3.100 doesn't work use: sudo ifconfig eth0 192.168.3.255
+> Source IP for my test LIDAR was: sudo route add 192.168.1.201 eth
+> Make sure you check the stati IP assignment works: ifconfig -a
+>> You can the static IP and set the route while Gazebo is running
+> Use: ip route list  to check assigned IP routes
+
 ### Troubleshooting
 - [From Jade back to Indigo - You Might Encounter Some Issues](http://answers.ros.org/question/211291/ros-indigo-re-installation-problem/)
 - [rosdep init Issue](http://answers.ros.org/question/235027/error-in-running-sudo-rosdep-init/)
