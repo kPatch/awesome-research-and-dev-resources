@@ -172,6 +172,8 @@
 - [(2015) - Jason Kottke: Taking a neural net out for a walk](http://kottke.org/15/11/taking-a-neural-net-out-for-a-walk)
 
 ## Robotics
+- [Robot Web Tools: A Collection of Open-Source Modules and Tools for Building Web-Based Robot Apps](http://robotwebtools.org/)
+
 ### ROS
 - [ROS: Lidar - Velodyne](https://staff.fnwi.uva.nl/a.visser/activities/FutureOfRescue/RoboCupRescueTutorial.pdf)
     - [ROS: Velodyne - Getting Started](http://wiki.ros.org/velodyne)
