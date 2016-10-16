@@ -174,7 +174,9 @@
 ## Robotics
 ### ROS
 - [ROS: Lidar - Velodyne](https://staff.fnwi.uva.nl/a.visser/activities/FutureOfRescue/RoboCupRescueTutorial.pdf)
--    [ROS: Velodyne - Getting Started](http://wiki.ros.org/velodyne)
+    - [ROS: Velodyne - Getting Started](http://wiki.ros.org/velodyne)
+    - [Velodyne Calibration Data](http://answers.ros.org/question/89756/velodyne-calibration/)
+    - [Velodyne Calibration Debuggin](http://answers.ros.org/question/238804/gen_calibrationpy-unable-to-read-32dbxml/) 
 - [ROS DRCSIM](http://gazebosim.org/tutorials?cat=drcsim)
 
 ### Troubleshooting
