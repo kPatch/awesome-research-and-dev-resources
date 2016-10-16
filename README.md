@@ -173,7 +173,8 @@
 
 ## Robotics
 ### ROS
-- [ROS: Lidar - Velodyna](https://staff.fnwi.uva.nl/a.visser/activities/FutureOfRescue/RoboCupRescueTutorial.pdf)
+- [ROS: Lidar - Velodyne](https://staff.fnwi.uva.nl/a.visser/activities/FutureOfRescue/RoboCupRescueTutorial.pdf)
+-    [ROS: Velodyne - Getting Started](http://wiki.ros.org/velodyne)
 - [ROS DRCSIM](http://gazebosim.org/tutorials?cat=drcsim)
 
 ### Troubleshooting
