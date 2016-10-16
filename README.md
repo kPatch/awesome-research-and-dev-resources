@@ -174,6 +174,8 @@
 ## Robotics
 ### ROS
 - [ROS: Lidar - Velodyna](https://staff.fnwi.uva.nl/a.visser/activities/FutureOfRescue/RoboCupRescueTutorial.pdf)
+- [ROS DRCSIM](http://gazebosim.org/tutorials?cat=drcsim)
+
 ## Startup
 Lorem Ipsum
 
