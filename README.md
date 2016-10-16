@@ -178,6 +178,7 @@
 
 ### Troubleshooting
 - [From Jade back to Indigo - You Might Encounter Some Issues](http://answers.ros.org/question/211291/ros-indigo-re-installation-problem/)
+- [rosdep init Issue](http://answers.ros.org/question/235027/error-in-running-sudo-rosdep-init/)
 
 ## Startup
 Lorem Ipsum
