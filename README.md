@@ -177,6 +177,7 @@
     - [ROS: Velodyne - Getting Started](http://wiki.ros.org/velodyne)
     - [Velodyne Calibration Data](http://answers.ros.org/question/89756/velodyne-calibration/)
     - [Velodyne Calibration Debuggin](http://answers.ros.org/question/238804/gen_calibrationpy-unable-to-read-32dbxml/) 
+    - [Velodyne HDL-32E IP Address](https://support.polysync.io/hc/en-us/articles/218551677-Velodyne-HDL-32E)
 - [ROS DRCSIM](http://gazebosim.org/tutorials?cat=drcsim)
 
 ### Troubleshooting
