@@ -198,3 +198,6 @@
 Lorem Ipsum
 
 ### Venture Capital
+
+### Courses
+- [Udacity: How To Build A Startup by Steve Blank](https://classroom.udacity.com/courses/ep245)
