@@ -198,6 +198,8 @@
 Lorem Ipsum
 
 ### Venture Capital
+- [Sequoia Capital: Writing a Businesss Plan](https://www.sequoiacap.com/article/writing-a-business-plan/)
+- [Sequoia Capital: Preparing a Board Deck](https://www.sequoiacap.com/article/preparing-a-board-deck/)
 
 ### Courses
 - [Udacity: How To Build A Startup by Steve Blank](https://classroom.udacity.com/courses/ep245)
