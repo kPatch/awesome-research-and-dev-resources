@@ -22,6 +22,9 @@
     - [OAuth](#oauth)
 - [Blockchain](#blockchain)
 - [AI](#ai)
+    - [Reinforcement Learning](#reinforcement-learning)
+    - [Nets and Deep Nets](#nets-and-deep-nets)
+    - [Natural Language Processing](#natural-language-processing)
 - [Robotics](#robotics)
 - [Startup](#startup)
     - [Venture Capital](#venture-capital)
@@ -139,13 +142,26 @@
 - [(2016) - The Wall Street Journal: CIO Explainer: What Is Blockchain?](http://blogs.wsj.com/cio/2016/02/02/cio-explainer-what-is-blockchain/)
 
 ## AI
+
+### Reinforcement Learning
+- [Richard S. Sutton - Founding Father of Modern Computational Reinforcement Learning](http://incompleteideas.net/sutton/)
+- [Dan Silver's Reinforcement Learning Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+
+#### Books
+- [Reinforcement Learning: An Introduction (DRAFT)](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
+
+### Nets and Deep Nets
 - [Deep Learning Summer School](http://videolectures.net/deeplearning2016_montreal/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [Deep Learning site](http://deeplearning.net/)
 
-### Books
+#### Books
 - [Artificial Intellgence: A Moder Approach 3rd Edition by Stuart Russel and Peter Norveig](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
 - [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
+
+### Natural Language Processing
+
+#### Books
 - [Speech and Language Processing 3rd Edition Draft by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
     - [Speech and Language Processing 2nd Edition Draft by Dan Jurafsky and James H. Martin](https://www.amazon.com/Speech-Language-Processing-Daniel-Jurafsky/dp/0131873210)
 
