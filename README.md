@@ -6,8 +6,9 @@
 ## Contents
 
 - [About](#about)
-- [How to use this guide](#how-to-use-this-guide)
-- [Prerequisites](#prerequisites)
+    - [How to use this guide](#how-to-use-this-guide)
+    - [Prerequisites](#prerequisites)
+- [Academic Idols](#academic-idols)
 - [Software Engineering] (#software-engineering)
 - [Product](#product)
 - [Languages](#languages)
@@ -32,10 +33,18 @@
 ## About
 Just a bunch of links and books I found useful
 
-## How to use this guide
+### How to use this guide
 
-## Prequisites
+### Prequisites
 
+## Academic Idols
+- [Geoffrey Hinton - The Godfather of Deep Learning](http://www.cs.toronto.edu/~hinton/)
+    - [Coursera - Neural Net for Machine Learning](https://www.coursera.org/learn/neural-networks)
+    - [CBC - The Current by Design - Interview](https://www.youtube.com/watch?v=nEv5KGXLtj4)
+- [Yann LeCun](http://yann.lecun.com/)
+    - [CILVR Lab @ NYU](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
+    - [ICLR 2014](https://www.youtube.com/playlist?list=PLhiWXaTdsWB-3O19E0PSR0r9OseIylUM8)
+- [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
 ---
 
 ## Software Engineering
@@ -52,16 +61,6 @@ Just a bunch of links and books I found useful
 
 ### Links
 - [A successful Git branching Model by Vincent Driesse](http://nvie.com/posts/a-successful-git-branching-model/)
-
-### Idols
-- [Geoffrey Hinton - The Godfather of Deep Learning](http://www.cs.toronto.edu/~hinton/)
-    - [Coursera - Neural Net for Machine Learning](https://www.coursera.org/learn/neural-networks)
-    - [CBC - The Current by Design - Interview](https://www.youtube.com/watch?v=nEv5KGXLtj4)
-- [Yann LeCun](http://yann.lecun.com/)
-    - [CILVR Lab @ NYU](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
-    - [ICLR 2014](https://www.youtube.com/playlist?list=PLhiWXaTdsWB-3O19E0PSR0r9OseIylUM8)
-- [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
-
 ---
 
 ## Product
