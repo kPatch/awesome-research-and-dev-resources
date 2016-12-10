@@ -45,6 +45,7 @@ Just a bunch of links and books I found useful
     - [CILVR Lab @ NYU](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
     - [ICLR 2014](https://www.youtube.com/playlist?list=PLhiWXaTdsWB-3O19E0PSR0r9OseIylUM8)
 - [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
+
 ---
 
 ## Software Engineering
