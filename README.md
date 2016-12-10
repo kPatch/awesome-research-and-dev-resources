@@ -62,6 +62,7 @@ Just a bunch of links and books I found useful
 
 ### Links
 - [A successful Git branching Model by Vincent Driesse](http://nvie.com/posts/a-successful-git-branching-model/)
+
 ---
 
 ## Product
