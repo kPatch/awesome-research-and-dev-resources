@@ -30,6 +30,7 @@
     - [Venture Capital](#venture-capital)
 
 ## About
+Just a bunch of links and books I found useful
 
 ## How to use this guide
 
