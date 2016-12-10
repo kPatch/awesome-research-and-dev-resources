@@ -38,6 +38,7 @@ Just a bunch of links and books I found useful
 ### Prequisites
 
 ## Academic Idols
+- [Richard S. Sutton - Founding Father of Modern Computational Reinforcement Learning](http://incompleteideas.net/sutton/)
 - [Geoffrey Hinton - The Godfather of Deep Learning](http://www.cs.toronto.edu/~hinton/)
     - [Coursera - Neural Net for Machine Learning](https://www.coursera.org/learn/neural-networks)
     - [CBC - The Current by Design - Interview](https://www.youtube.com/watch?v=nEv5KGXLtj4)
