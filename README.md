@@ -135,6 +135,9 @@ Just a bunch of links and books I found useful
 #### Ethereum
 - [(2016) YouTube: Introduction to Ethereum Smart Contract Development with Solidity (Part 1)] (https://www.youtube.com/watch?v=8jI1TuEaTro)
 - [(2016) YouTube: Introduction to Ethereum Smart Contract Development with Solidity (Part 2)](https://www.youtube.com/watch?v=3-XPBtAfcqo)
+- [Introduction to Smart Contracts](http://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#index-6)
+- [Solidity in Depth - Contracts](http://solidity.readthedocs.io/en/develop/contracts.html)
+- [StackExchange: Where can I find some Solidity / Smart Contract source code examples?](http://ethereum.stackexchange.com/questions/2940/where-can-i-find-some-solidity-smart-contract-source-code-examples)
 
 ##### Tools
 - [Truffle - A Development Framework for Ethereum](https://github.com/ConsenSys/truffle)
