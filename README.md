@@ -139,7 +139,8 @@ Just a bunch of links and books I found useful
 - [Solidity in Depth - Contracts](http://solidity.readthedocs.io/en/develop/contracts.html)
 - [StackExchange: Where can I find some Solidity / Smart Contract source code examples?](http://ethereum.stackexchange.com/questions/2940/where-can-i-find-some-solidity-smart-contract-source-code-examples)
 - [Technical Introduction to Events and Logs in Ethereum](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e#.bfegt0fx2)
-
+- [Truffle: Interacting with your contracts](http://truffleframework.com/docs/getting_started/contracts)
+- [Truffle: Running Migrations](http://truffle.readthedocs.io/en/beta/getting_started/migrations/)
 
 ##### Tools
 - [Truffle - A Development Framework for Ethereum](https://github.com/ConsenSys/truffle)
