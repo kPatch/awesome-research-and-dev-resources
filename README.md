@@ -149,6 +149,9 @@ Just a bunch of links and books I found useful
 ##### StackOverflow Questions
 - [How will regular users be able to use dApps without buying ether?](http://ethereum.stackexchange.com/questions/281/how-will-regular-users-be-able-to-use-dapps-without-buying-ether)
 
+##### DApps, Apps and Stuff
+- [Ethereum Whisper: How to Whisper](https://github.com/ethereum/go-ethereum/wiki/How-to-Whisper)
+
 ### Notable News Articles
 - [(2015) - The Economist: The Trust Machine](http://www.economist.com/news/leaders/21677198-technology-behind-bitcoin-could-transform-how-economy-works-trust-machine)
 - [(2016) - The Wall Street Journal: CIO Explainer: What Is Blockchain?](http://blogs.wsj.com/cio/2016/02/02/cio-explainer-what-is-blockchain/)
