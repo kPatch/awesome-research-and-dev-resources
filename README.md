@@ -139,17 +139,18 @@ Just a bunch of links and books I found useful
 - [Solidity in Depth - Contracts](http://solidity.readthedocs.io/en/develop/contracts.html)
 - [StackExchange: Where can I find some Solidity / Smart Contract source code examples?](http://ethereum.stackexchange.com/questions/2940/where-can-i-find-some-solidity-smart-contract-source-code-examples)
 - [Technical Introduction to Events and Logs in Ethereum](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e#.bfegt0fx2)
-- [Truffle: Interacting with your contracts](http://truffleframework.com/docs/getting_started/contracts)
-- [Truffle: Running Migrations](http://truffle.readthedocs.io/en/beta/getting_started/migrations/)
 
 ##### Tools
 - [Truffle - A Development Framework for Ethereum](https://github.com/ConsenSys/truffle)
+- [Truffle: Interacting with your contracts](http://truffleframework.com/docs/getting_started/contracts)
+- [Truffle: Running Migrations](http://truffle.readthedocs.io/en/beta/getting_started/migrations/)
 - [testrpc - A Node.js based Ethereum client for testing and development](https://github.com/ethereumjs/testrpc)
 
 ##### StackOverflow Questions
 - [How will regular users be able to use dApps without buying ether?](http://ethereum.stackexchange.com/questions/281/how-will-regular-users-be-able-to-use-dapps-without-buying-ether)
 
 ##### DApps, Apps and Stuff
+- [Ethereum Light Wallet: HD wallet that can store your private keys encrypted in the browser to allow you to run Ethereum dapps even if you're not running a local Ethereum node](https://github.com/ConsenSys/eth-lightwallet)
 - [Ethereum Whisper: How to Whisper](https://github.com/ethereum/go-ethereum/wiki/How-to-Whisper)
 - [Authentication: BlockOne ID - Thomson Reuters Authentication/Entitlements Framework](https://blockone.thomsonreuters.com/docs/)
 
