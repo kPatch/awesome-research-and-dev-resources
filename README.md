@@ -151,6 +151,7 @@ Just a bunch of links and books I found useful
 
 ##### DApps, Apps and Stuff
 - [Ethereum Whisper: How to Whisper](https://github.com/ethereum/go-ethereum/wiki/How-to-Whisper)
+- [Authentication: BlockOne ID - Thomson Reuters Authentication/Entitlements Framework](https://blockone.thomsonreuters.com/docs/)
 
 ### Notable News Articles
 - [(2015) - The Economist: The Trust Machine](http://www.economist.com/news/leaders/21677198-technology-behind-bitcoin-could-transform-how-economy-works-trust-machine)
