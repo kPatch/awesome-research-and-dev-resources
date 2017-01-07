@@ -158,6 +158,12 @@ Just a bunch of links and books I found useful
 - [(2015) - The Economist: The Trust Machine](http://www.economist.com/news/leaders/21677198-technology-behind-bitcoin-could-transform-how-economy-works-trust-machine)
 - [(2016) - The Wall Street Journal: CIO Explainer: What Is Blockchain?](http://blogs.wsj.com/cio/2016/02/02/cio-explainer-what-is-blockchain/)
 
+#### Security
+- [(01-2016) - Blockchain Security Implications for the Industrial Internet](https://guardtime.com/blog/blockchain-security-implications-for-the-industrial-internet)
+
+#### Loyalty Programs
+- [Lorem Ipsum](#)
+
 ## AI
 
 ### Reinforcement Learning
@@ -203,9 +209,6 @@ Just a bunch of links and books I found useful
 - [(2015) - Bloomberg: Why 2015 Was a Breakthrough Year in Artificial Intelligence](http://www.bloomberg.com/news/articles/2015-12-08/why-2015-was-a-breakthrough-year-in-artificial-intelligence)
 - [(2015) - Bloomberg:  Computers Learn How to Paint Whatever You Tell Them To](http://www.bloomberg.com/news/articles/2015-12-02/computers-learn-how-to-paint-whatever-you-tell-them-to)
 - [(2015) - Jason Kottke: Taking a neural net out for a walk](http://kottke.org/15/11/taking-a-neural-net-out-for-a-walk)
-
-#### Security
-- [01-2016) - Blockchain Security Implications for the Industrial Internet](https://guardtime.com/blog/blockchain-security-implications-for-the-industrial-internet)
 
 ## Robotics
 - [Robot Web Tools: A Collection of Open-Source Modules and Tools for Building Web-Based Robot Apps](http://robotwebtools.org/)
