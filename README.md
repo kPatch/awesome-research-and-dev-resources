@@ -213,6 +213,10 @@ Just a bunch of links and books I found useful
 ## Robotics
 - [Robot Web Tools: A Collection of Open-Source Modules and Tools for Building Web-Based Robot Apps](http://robotwebtools.org/)
 
+### Books
+
+- [Spring Handbook of Robotic](http://www.springer.com/us/book/9783540382195)
+
 ### ROS
 - [ROS: Lidar - Velodyne](https://staff.fnwi.uva.nl/a.visser/activities/FutureOfRescue/RoboCupRescueTutorial.pdf)
     - [ROS: Velodyne - Getting Started](http://wiki.ros.org/velodyne)
