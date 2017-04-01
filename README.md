@@ -233,9 +233,26 @@ Just a bunch of links and books I found useful
    - You can the static IP and set the route while Gazebo is running
 - Use: ip route list  to check assigned IP routes
 
+### XBOX One Kinect
+- [ROS Answers: Anyone using the new XBOX One Kinect?](http://answers.ros.org/question/108951/anyone-using-the-new-xbox-one-kinect/) 
+
 ### Troubleshooting
 - [From Jade back to Indigo - You Might Encounter Some Issues](http://answers.ros.org/question/211291/ros-indigo-re-installation-problem/)
 - [rosdep init Issue](http://answers.ros.org/question/235027/error-in-running-sudo-rosdep-init/)
+- [Q: Ubuntu logs in and out after driver installation, A: Purge Nvidia drivers and reinstall](http://askubuntu.com/questions/760934/graphics-issues-after-while-installing-ubuntu-16-04-16-10-with-nvidia-graphics)
+
+Other causes might be do to the .Xauthority file, or lightdm
+
+[AskUbuntu: I am logged out immediately after logging in.](http://askubuntu.com/questions/367260/i-am-logged-out-immediately-after-logging-in).
+
+It might be helpful to check .xsession-error.
+```
+$ vi ~/.xsession-errors
+```
+
+Other related
+
+-
 
 ## Startup
 Lorem Ipsum
