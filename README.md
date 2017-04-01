@@ -250,8 +250,6 @@ It might be helpful to check .xsession-error.
 $ vi ~/.xsession-errors
 ```
 
-Other related
-
 -
 
 ## Startup
