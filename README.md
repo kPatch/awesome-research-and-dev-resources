@@ -241,11 +241,11 @@ Just a bunch of links and books I found useful
 - [rosdep init Issue](http://answers.ros.org/question/235027/error-in-running-sudo-rosdep-init/)
 - [Q: Ubuntu logs in and out after driver installation, A: Purge Nvidia drivers and reinstall](http://askubuntu.com/questions/760934/graphics-issues-after-while-installing-ubuntu-16-04-16-10-with-nvidia-graphics)
 
-Other causes might be do to the .Xauthority file, or lightdm
+Other causes might be due to the .Xauthority file, or lightdm
 
 [AskUbuntu: I am logged out immediately after logging in.](http://askubuntu.com/questions/367260/i-am-logged-out-immediately-after-logging-in).
 
-It might be helpful to check .xsession-error.
+It might be helpful to check the .xsession-errors file.
 ```
 $ vi ~/.xsession-errors
 ```
