@@ -216,6 +216,11 @@ Just a bunch of links and books I found useful
 ### Books
 
 - [Spring Handbook of Robotic](http://www.springer.com/us/book/9783540382195)
+- [Modelling and control of robot manipulators by Sciavicco, Lorenzo, Siciliano, Bruno](http://www.springer.com/us/book/9781852332211)
+- [Introduction to Robotics: Analysis, Control, Applications 2nd Edition by Saeed B. Niku](https://www.amazon.com/Introduction-Robotics-Analysis-Control-Applications/dp/0470604468)
+- [Robot Modeling and Control by Mark W. Spong, Seth Hutchinson and M. Vidyasagar](https://www.amazon.com/Robot-Modeling-Control-Mark-Spong/dp/0471649902)
+- [Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series) 2nd Edition by Roland Siegwart](https://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358)
+- [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics) by Peter Corke](https://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)
 
 ### ROS
 - [ROS: Lidar - Velodyne](https://staff.fnwi.uva.nl/a.visser/activities/FutureOfRescue/RoboCupRescueTutorial.pdf)
