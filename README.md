@@ -9,7 +9,7 @@
     - [How to use this guide](#how-to-use-this-guide)
     - [Prerequisites](#prerequisites)
 - [Academic Idols](#academic-idols)
-- [Software Engineering] (#software-engineering)
+- [Software Engineering](#software-engineering)
 - [Product](#product)
 - [Languages](#languages)
     - [Java](#java)
@@ -18,9 +18,10 @@
 - [Android](#android)
 - [iOS](#ios)
 - [Web Development](#web-development)
-- [UI/IX](#ui-ux)
+- [UI/IX](#ui/ux)
 - [Security](#security)
     - [OAuth](#oauth)
+- [Computer Security](#computer-security)
 - [Blockchain](#blockchain)
 - [AI](#ai)
     - [Reinforcement Learning](#reinforcement-learning)
@@ -119,6 +120,9 @@ Just a bunch of links and books I found useful
 
 ### OAuth
 - [OAuth 2.0 Tutorial by Jakob Jenkov](http://tutorials.jenkov.com/oauth2/index.html)
+
+## Computer Security
+- [University Course: Dr. Bill Young Foundations of Computer Security](https://www.cs.utexas.edu/~byoung/cs361/syllabus361.html)
 
 ## Blockchain
 - [Bitcoin's Whitepaper](https://bitcoin.org/bitcoin.pdf)
