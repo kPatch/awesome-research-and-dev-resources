@@ -125,18 +125,31 @@ Just a bunch of links and books I found useful
 - [University Course: Dr. Bill Young Foundations of Computer Security](https://www.cs.utexas.edu/~byoung/cs361/syllabus361.html)
 
 ## Blockchain
+
+### Books
+- [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.amazon.com/dp/1449374042/)
+- [Princeton's Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/)
+
+### Overview
 - [Bitcoin's Whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [Bitcoin's Developer Documentation](https://bitcoin.org/en/developer-documentation)
+- [Bitcoin's Developer Reference](https://bitcoin.org/en/developer-reference#block-chain)
 - [Bitcoin's GitHub Organization](https://github.com/bitcoin)
 - [Bitcoin's Wiki](https://en.bitcoin.it/wiki/Main_Page)
 - [Bitcoin's IRC Channels](https://en.bitcoin.it/wiki/IRC_channels)
 - [Bitcoin: Choose Your Wallet](https://bitcoin.org/en/choose-your-wallet)
 - [MultiChain - Blockchain Parameters](http://www.multichain.com/developers/blockchain-parameters/)
+- [Monax | Explainers: Blockchain Core Concepts and Smart Contracts](https://monax.io/explainers/)
 
 ### Smart Contracts
 - [Lorem Ipsum](#)
 
 #### Ethereum
+- [(2016) DEVCON1: Understanding the Ethereum Blockchain Protocol - Vitalik Buterin](https://www.youtube.com/watch?v=gjwr-7PgpN8)
+- [(2016) R3CEV | Ethereum: Platform Review - Opportunities and Challenges for Private and Consortium Blockchain by Vitalik Buterin](https://www.scribd.com/doc/314477721/Ethereum-Platform-Review-Opportunities-and-Challenges-for-Private-and-Consortium-Blockchains)
+- [(2016) R3CEV | Ethereum Paper Executive Summary by Kathleen Breitman and Richard Gendal Brown](https://www.scribd.com/doc/314478497/Ethereum-Paper-Executive-Summary)
+- [Ethereum Design Rationale](https://github.com/ethereum/wiki/wiki/Design-Rationale)
+- [Ethereum VM & Execution Environment Overview](https://drive.google.com/file/d/0B42vMkapQi1MeHh5OVg3bnpQTDg/view)
 - [(2016) YouTube: Introduction to Ethereum Smart Contract Development with Solidity (Part 1)](https://www.youtube.com/watch?v=8jI1TuEaTro)
 - [(2016) YouTube: Introduction to Ethereum Smart Contract Development with Solidity (Part 2)](https://www.youtube.com/watch?v=3-XPBtAfcqo)
 - [Introduction to Smart Contracts](http://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#index-6)
