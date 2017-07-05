@@ -21,7 +21,8 @@
 - [UI/IX](#ui/ux)
 - [Security](#security)
     - [OAuth](#oauth)
-- [Computer Security](#computer-security)
+- [Computer Security](#security)
+- [Networking](#networking)
 - [Blockchain](#blockchain)
 - [AI](#ai)
     - [Reinforcement Learning](#reinforcement-learning)
@@ -120,6 +121,12 @@ Just a bunch of links and books I found useful
 
 ### OAuth
 - [OAuth 2.0 Tutorial by Jakob Jenkov](http://tutorials.jenkov.com/oauth2/index.html)
+
+## Networking
+- [Datmouth Course: Computer Networks -- want to program the Internet? by Andrew T. Campbell](http://www.cs.dartmouth.edu/~campbell/cs60/)
+- [Slide Deck: Examples of Peer-to-Peer Applications](http://www.cs.dartmouth.edu/~campbell/cs60/p2p-examples.pdf)
+- [BitTorrent Paper](http://www.bittorrent.org/bittorrentecon.pdf)
+- [Gnutella Protocol](http://rfc-gnutella.sourceforge.net/src/rfc-0_6-draft.html)
 
 ## Blockchain
 
