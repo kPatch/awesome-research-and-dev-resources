@@ -116,13 +116,10 @@ Just a bunch of links and books I found useful
 - [Udacity: UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
 
 ## Security
-- [Lorem Ipsum](#)
+- [University Course: Dr. Bill Young Foundations of Computer Security](https://www.cs.utexas.edu/~byoung/cs361/syllabus361.html)
 
 ### OAuth
 - [OAuth 2.0 Tutorial by Jakob Jenkov](http://tutorials.jenkov.com/oauth2/index.html)
-
-## Computer Security
-- [University Course: Dr. Bill Young Foundations of Computer Security](https://www.cs.utexas.edu/~byoung/cs361/syllabus361.html)
 
 ## Blockchain
 
