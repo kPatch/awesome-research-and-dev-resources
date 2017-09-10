@@ -9,6 +9,8 @@
     - [How to use this guide](#how-to-use-this-guide)
     - [Prerequisites](#prerequisites)
 - [Academic Idols](#academic-idols)
+- [Mathematics](#mathematics)
+    - [Probability](#probability)
 - [Software Engineering](#software-engineering)
 - [Product](#product)
 - [Languages](#languages)
@@ -50,6 +52,10 @@ Just a bunch of links and books I found useful
 - [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
 
 ---
+
+## Mathematics
+
+### Probability
 
 ## Software Engineering
 
