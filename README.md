@@ -30,6 +30,7 @@
     - [Reinforcement Learning](#reinforcement-learning)
     - [Nets and Deep Nets](#nets-and-deep-nets)
     - [Natural Language Processing](#natural-language-processing)
+    - [Courses and Tutorials](#courses-and-tutorials)
 - [Robotics](#robotics)
 - [Startup](#startup)
     - [Venture Capital](#venture-capital)
@@ -215,10 +216,10 @@ Just a bunch of links and books I found useful
 - [Speech and Language Processing 3rd Edition Draft by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
     - [Speech and Language Processing 2nd Edition Draft by Dan Jurafsky and James H. Martin](https://www.amazon.com/Speech-Language-Processing-Daniel-Jurafsky/dp/0131873210)
 
-### Courses
+### Courses and Tutorials
 - [EdX: Artificial Intelligence by Dan Klein and Peter Abbeel - UC Berkeley](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x)
 - [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
-
+- [CMU: Andrew W Moore's Set of Tutorials on Foundations of Probability, Statistics, ML and Data Mining Algos](http://www.cs.cmu.edu/~./awm/tutorials.html)
 ### Blogs
 - [Andrej Karpathy](http://karpathy.github.io/)
 
