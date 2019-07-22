@@ -27,6 +27,7 @@
 - [Computer Security](#security)
 - [Networking](#networking)
 - [Blockchain](#blockchain)
+- [Virtual Reality](#virtual-reality)
 - [AI](#ai)
     - [Reinforcement Learning](#reinforcement-learning)
     - [Nets and Deep Nets](#nets-and-deep-nets)
@@ -199,6 +200,11 @@ Just a bunch of links and books I found useful
 
 #### Loyalty Programs
 - [Lorem Ipsum](#)
+
+## Virtual Reality
+
+### Lectures
+- [Virtual Reality by Steven LaValle](http://vr.cs.uiuc.edu/)
 
 ## AI
 
