@@ -37,7 +37,7 @@
 - [Startup](#startup)
     - [Venture Capital](#venture-capital)
 
-## About
+## ABOUT
 Just a bunch of links and books I found useful
 
 ### How to use this guide
@@ -56,18 +56,18 @@ Just a bunch of links and books I found useful
 
 ---
 
-## Mathematics
+## MATHEMATICS
 
 ### Probability
 
-## Cryptography
+## CRYPTOGRAPHY
 
 ### Lectures
  - [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
 ### Books 
  - [Understanding Cryptography by Christof Paar and Jan Pelzl](https://link.springer.com/book/10.1007/978-3-642-04101-3)
 
-## Software Engineering
+## SOFTWARE ENGINEERING
 
 ### Books
 - [The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt & David Thomas](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
@@ -84,14 +84,14 @@ Just a bunch of links and books I found useful
 
 ---
 
-## Product
+## PRODUCT
 - [Lorem Ipsum](#)
 
 ### User Onboarding
 - [UserOnboard](http://www.useronboard.com/)
 - []()
 
-## Languages 
+## LANGUAGES 
 - [Lorem Ipsum](#)
 
 ### Java
@@ -106,7 +106,7 @@ Just a bunch of links and books I found useful
 #### Books
 - [Lorem Ipsum](#)
 
-## Android
+## ANDROID
 - [Lorem Ipsum](#)
 
 ### Courses
@@ -124,7 +124,7 @@ Just a bunch of links and books I found useful
 ## iOS
 - [Udemy Class](https://www.udemy.com/devslopes-ios10/learn/v4/overview)
 
-## Web Development
+## WEB DEVELOPMENT
 - [Lorem Ipsum](#)
 
 ## UI/UX
@@ -132,19 +132,19 @@ Just a bunch of links and books I found useful
 ### Courses
 - [Udacity: UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
 
-## Security
+## SECURITY
 - [University Course: Dr. Bill Young Foundations of Computer Security](https://www.cs.utexas.edu/~byoung/cs361/syllabus361.html)
 
 ### OAuth
 - [OAuth 2.0 Tutorial by Jakob Jenkov](http://tutorials.jenkov.com/oauth2/index.html)
 
-## Networking
+## NETWORKING
 - [Datmouth Course: Computer Networks -- want to program the Internet? by Andrew T. Campbell](http://www.cs.dartmouth.edu/~campbell/cs60/)
 - [Slide Deck: Examples of Peer-to-Peer Applications](http://www.cs.dartmouth.edu/~campbell/cs60/p2p-examples.pdf)
 - [BitTorrent Paper](http://www.bittorrent.org/bittorrentecon.pdf)
 - [Gnutella Protocol](http://rfc-gnutella.sourceforge.net/src/rfc-0_6-draft.html)
 
-## Blockchain
+## BLOCKCHAIN
 
 ### Books
 - [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.amazon.com/dp/1449374042/)
@@ -201,7 +201,7 @@ Just a bunch of links and books I found useful
 #### Loyalty Programs
 - [Lorem Ipsum](#)
 
-## Virtual Reality
+## VIRTUAL REALITY
 
 ### Lectures
 - [Virtual Reality by Steven LaValle](http://vr.cs.uiuc.edu/)
@@ -224,7 +224,7 @@ Just a bunch of links and books I found useful
 - [Artificial Intellgence: A Moder Approach 3rd Edition by Stuart Russel and Peter Norveig](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
 - [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 
-### Natural Language Processing
+### NATURAL LANGUAGE PROCESSING
 
 #### Books
 - [Speech and Language Processing 3rd Edition Draft by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
@@ -252,7 +252,7 @@ Just a bunch of links and books I found useful
 - [(2015) - Bloomberg:  Computers Learn How to Paint Whatever You Tell Them To](http://www.bloomberg.com/news/articles/2015-12-02/computers-learn-how-to-paint-whatever-you-tell-them-to)
 - [(2015) - Jason Kottke: Taking a neural net out for a walk](http://kottke.org/15/11/taking-a-neural-net-out-for-a-walk)
 
-## Robotics
+## ROBOTICS
 - [Robot Web Tools: A Collection of Open-Source Modules and Tools for Building Web-Based Robot Apps](http://robotwebtools.org/)
 
 ### Books (General)
@@ -307,7 +307,7 @@ $ vi ~/.xsession-errors
 
 -
 
-## Startup
+## STARTUP
 Lorem Ipsum
 
 ### Venture Capital
