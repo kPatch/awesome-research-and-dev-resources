@@ -21,14 +21,14 @@
 - [Android](#android)
 - [iOS](#ios)
 - [Web Development](#web-development)
-- [UI/IX](#ui/ux)
+- [User Interface and User Experience Design](#user-interface-and-user-experience-design)
 - [Security](#security)
     - [OAuth](#oauth)
 - [Computer Security](#security)
 - [Networking](#networking)
 - [Blockchain](#blockchain)
 - [Virtual Reality](#virtual-reality)
-- [AI](#ai)
+- [Artificial Intelligence](#artificial-intelligence)
     - [Reinforcement Learning](#reinforcement-learning)
     - [Nets and Deep Nets](#nets-and-deep-nets)
     - [Natural Language Processing](#natural-language-processing)
@@ -42,7 +42,7 @@ Just a bunch of links and books I found useful
 
 ### How to use this guide
 
-### Prequisites
+### Prerequisites
 
 ## Academic Idols
 - [Richard S. Sutton - Founding Father of Modern Computational Reinforcement Learning](http://incompleteideas.net/sutton/)
@@ -127,7 +127,7 @@ Just a bunch of links and books I found useful
 ## WEB DEVELOPMENT
 - [Lorem Ipsum](#)
 
-## UI/UX
+## USER INTERFACE AND USER EXPERIENCE DESIGN
 
 ### Courses
 - [Udacity: UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
@@ -206,7 +206,7 @@ Just a bunch of links and books I found useful
 ### Lectures
 - [Virtual Reality by Steven LaValle](http://vr.cs.uiuc.edu/)
 
-## AI
+## ARTIFICIAL INTELLIGENCE
 
 ### Reinforcement Learning
 - [Richard S. Sutton - Founding Father of Modern Computational Reinforcement Learning](http://incompleteideas.net/sutton/)
