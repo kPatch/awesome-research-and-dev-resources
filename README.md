@@ -11,6 +11,7 @@
 - [Academic Idols](#academic-idols)
 - [Mathematics](#mathematics)
     - [Probability](#probability)
+- [Cryptography](#cryptography)
 - [Software Engineering](#software-engineering)
 - [Product](#product)
 - [Languages](#languages)
@@ -57,6 +58,13 @@ Just a bunch of links and books I found useful
 ## Mathematics
 
 ### Probability
+
+## Cryptography
+
+### Lectures
+ - [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
+### Books 
+ - [Understanding Cryptography by Christof Paar and Jan Pelzl](https://link.springer.com/book/10.1007/978-3-642-04101-3)
 
 ## Software Engineering
 
