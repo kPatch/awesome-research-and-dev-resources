@@ -87,7 +87,6 @@ Just a bunch of links and books I found useful
 
 ### User Onboarding
 - [UserOnboard](http://www.useronboard.com/)
-- []()
 
 ## LANGUAGES 
 
