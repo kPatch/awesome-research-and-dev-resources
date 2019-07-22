@@ -94,17 +94,12 @@ Just a bunch of links and books I found useful
 ## LANGUAGES 
 - [Lorem Ipsum](#)
 
-### Java
-- [Lorem Ipsum](#)
-
-#### Books
-- [Lorem Ipsum](#)
-
 ### JavaScript
-- [Lorem Ipsum](#)
+- [Tutorials Point: JavaScript Tutorial](https://www.tutorialspoint.com/javascript/)
 
-#### Books
-- [Lorem Ipsum](#)
+### Python
+- [Tutorials Point: Python Tutorial](https://www.tutorialspoint.com/python/)
+
 
 ## ANDROID
 - [Lorem Ipsum](#)
