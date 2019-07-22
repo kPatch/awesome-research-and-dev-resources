@@ -15,9 +15,8 @@
 - [Software Engineering](#software-engineering)
 - [Product](#product)
 - [Languages](#languages)
-    - [Java](#java)
     - [JavaScript](#javascript)
-    - [C++](#c++)
+    - [Python](#python)
 - [Android](#android)
 - [iOS](#ios)
 - [Web Development](#web-development)
@@ -85,14 +84,12 @@ Just a bunch of links and books I found useful
 ---
 
 ## PRODUCT
-- [Lorem Ipsum](#)
 
 ### User Onboarding
 - [UserOnboard](http://www.useronboard.com/)
 - []()
 
 ## LANGUAGES 
-- [Lorem Ipsum](#)
 
 ### JavaScript
 - [Tutorials Point: JavaScript Tutorial](https://www.tutorialspoint.com/javascript/)
@@ -102,7 +99,6 @@ Just a bunch of links and books I found useful
 
 
 ## ANDROID
-- [Lorem Ipsum](#)
 
 ### Courses
 - [Udacity: Developing Android Apps - Android Fundamentals](https://www.udacity.com/course/developing-android-apps--ud853)
@@ -111,16 +107,16 @@ Just a bunch of links and books I found useful
 - [Android Hive](http://www.androidhive.info/)
 
 ### Libraries
-- [Lorem Ipsum](#)
 
 ### Frameworks
-- [Lorem Ipsum](#)
 
 ## iOS
 - [Udemy Class](https://www.udemy.com/devslopes-ios10/learn/v4/overview)
 
 ## WEB DEVELOPMENT
-- [Lorem Ipsum](#)
+
+### ReactJS
+- [The Road to React](https://roadtoreact.com/)
 
 ## USER INTERFACE AND USER EXPERIENCE DESIGN
 
@@ -157,7 +153,6 @@ Just a bunch of links and books I found useful
 - [Monax | Explainers: Blockchain Core Concepts and Smart Contracts](https://monax.io/explainers/)
 
 ### Smart Contracts
-- [Lorem Ipsum](#)
 
 #### Ethereum
 - [(2016) DEVCON1: Understanding the Ethereum Blockchain Protocol - Vitalik Buterin](https://www.youtube.com/watch?v=gjwr-7PgpN8)
@@ -194,7 +189,6 @@ Just a bunch of links and books I found useful
 - [(01-2016) - Blockchain Security Implications for the Industrial Internet](https://guardtime.com/blog/blockchain-security-implications-for-the-industrial-internet)
 
 #### Loyalty Programs
-- [Lorem Ipsum](#)
 
 ## VIRTUAL REALITY
 
@@ -303,7 +297,6 @@ $ vi ~/.xsession-errors
 -
 
 ## STARTUP
-Lorem Ipsum
 
 ### Venture Capital
 - [Sequoia Capital: Writing a Businesss Plan](https://www.sequoiacap.com/article/writing-a-business-plan/)
