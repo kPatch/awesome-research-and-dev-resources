@@ -57,7 +57,8 @@ Just a bunch of links and books I found useful
 
 ## MATHEMATICS
 
-### Probability
+### Probability & Statistics
+- [Introduction to Probability Statistics and Random Processes](https://www.probabilitycourse.com/preface.php)
 
 ## CRYPTOGRAPHY
 
