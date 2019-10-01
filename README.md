@@ -244,6 +244,9 @@ Just a bunch of links and books I found useful
 ## ROBOTICS
 - [Robot Web Tools: A Collection of Open-Source Modules and Tools for Building Web-Based Robot Apps](http://robotwebtools.org/)
 
+### Arduino
+-[Serial Input Basics](https://forum.arduino.cc/index.php?topic=396450.0)
+
 ### Books (General)
 
 - [Spring Handbook of Robotic](http://www.springer.com/us/book/9783540382195)
