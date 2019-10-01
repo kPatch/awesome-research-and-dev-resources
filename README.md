@@ -10,7 +10,7 @@
     - [Prerequisites](#prerequisites)
 - [Academic Idols](#academic-idols)
 - [Mathematics](#mathematics)
-    - [Probability](#probability)
+    - [Probability and Statistics](#probability-and-statistics)
 - [Cryptography](#cryptography)
 - [Software Engineering](#software-engineering)
 - [Product](#product)
@@ -57,7 +57,7 @@ Just a bunch of links and books I found useful
 
 ## MATHEMATICS
 
-### Probability & Statistics
+### Probability and Statistics
 - [Introduction to Probability Statistics and Random Processes](https://www.probabilitycourse.com/preface.php)
 
 ## CRYPTOGRAPHY
@@ -245,7 +245,7 @@ Just a bunch of links and books I found useful
 - [Robot Web Tools: A Collection of Open-Source Modules and Tools for Building Web-Based Robot Apps](http://robotwebtools.org/)
 
 ### Arduino
--[Serial Input Basics](https://forum.arduino.cc/index.php?topic=396450.0)
+- [Serial Input Basics](https://forum.arduino.cc/index.php?topic=396450.0)
 
 ### Books (General)
 
