@@ -198,13 +198,15 @@ Just a bunch of links and books I found useful
 ## ARTIFICIAL INTELLIGENCE
 
 ### Reinforcement Learning
+- [UC Berkeley - Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcoursesp17/)
 - [Richard S. Sutton - Founding Father of Modern Computational Reinforcement Learning](http://incompleteideas.net/sutton/)
 - [Dan Silver's Reinforcement Learning Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 #### Books
-- [Reinforcement Learning: An Introduction (DRAFT)](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
+- [Reinforcement Learning: An Introduction (DRAFT)](http://incompleteideas.net/sutton/book/bookdraft2017june19.pdf)
 
 ### Nets and Deep Nets
+- [Convolutional Neural Networks for Visual Recognition(still great for learning basics of deep learning)](http://cs231n.stanford.edu/)
 - [Deep Learning Summer School](http://videolectures.net/deeplearning2016_montreal/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [Deep Learning site](http://deeplearning.net/)
